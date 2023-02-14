@@ -60,7 +60,7 @@ The AxiDraw is a small machine that you generally don’t need to worry too much
 about. That said:
 
 1. Long hair can get stuck in the belt. Make sure to tie it back and don’t bend
-   over the machine while it is running. (I [Hannah] have done this and it
+   over the machine while it is running. (I (Hannah) have done this and it
    hurts)
 2. You must manually home the AxiDraw before use. There aren’t limit switches,
    so it doesn’t know when it is trying to go out of bounds and will make angry
@@ -84,8 +84,6 @@ say, an oddly-shaped pen or Expo marker.
 ### Unacceptable Materials
 
 - Use your best judgment. The AxiDraw is pretty simple.
-
-The AxiDraw!
 
 ## Step-by-step Instructions
 
