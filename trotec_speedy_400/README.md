@@ -8,7 +8,7 @@ manager.
 
 - Author: Blair Subbaraman
 - PI: Nadya Peek
-- Shop Safety Coordinator: Kellie Dunn
+- Shop Safety Coordinator: Nadya Peek
 
 |                                               |                                                                                                               |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |

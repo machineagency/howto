@@ -1,6 +1,6 @@
 ### General Information
 
-**Machine Manager:** Jeremy Cyphers, cyphers@uw.edu
+**Machine Manager:** Shenna Shim, shenns@uw
 
 **Machine Location:** Machine Agency Shop
 
