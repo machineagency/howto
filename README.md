@@ -1,5 +1,17 @@
 # Machine Agency How-To
 
+## Machines
+
+- [Axidraw Plotters](axidraw/README.md) (x2, V3 and SE/A3)
+- [Silver Reed SK840](silverreed/README.md) (knitting machine)
+- [Ender 3 Pro](ender/README.md) (x4)
+- [Prusa i3 Mk3](prusa/README.md)
+- [OtherMill](othermill/README.md)
+- [Roland Mill](roland/README.md)
+- [Wazer Waterjet](wazer/README.md)
+
+## Instructions
+
 Head over to [the wiki](https://github.com/machineagency/howto/wiki) for
 documentation on Machine Agency machines!
 
