@@ -1,31 +1,36 @@
 # Brother sewing machine LS-2125i
 
-Standard Operating Procedure Last updated on 2/13/23 This is the Standard
-Operating Procedure for the Machine Agency Brother LS-2125i sewing machine. For
-questions about this machine, contact the machine manager.
+Last updated on 14 February 2023
 
-Author Name: Kellie Dunn Title: Research Scientist Date: 10/21/2021 #1 Process
-(if applicable) Sews fabric and other lightweight material #2 Equipment Sewing
-machine #3 Personal Protective Equipment (PPE) Eye protection if using material
-that’s likely to break a needle #4 Environmental / Ventilation controls. None #5
-Required training or approval No required training, except in cases where user
-has never used a sewing machine before #6 Inspection requirements before use
+This is the Standard Operating Procedure for the Machine Agency Brother LS-2125i
+sewing machine. For questions about this machine, contact the machine manager.
 
-Ensure the power cord is not damaged, needle and bobbin are not damaged, and
-presser foot is installed. #7 Safe operating procedures or precautions See
-instructions detailed below #8 Chemicals/ spill procedures/waste disposal
-Dispose of all thread bits and fabric scraps in the trash after use. PI: Nadya
-Peek Shop Safety Coordinator: Kellie Dunn
+- Author: Hannah Twigg-Smith
+- PI: Nadya Peek
+- Shop Safety Coordinator: Nadya Peek
+
+|                                               |                                                                                                         |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| #1 Process (if applicable)                    | Sews fabric and other lightweight material                                                              |
+| #2 Equipment                                  | Sewing                                                                                                  |
+| #3 Personal Protective Equipment (PPE)        | Eye protection if using material that’s likely to break a needle                                        |
+| #4 Environmental/Ventilation controls         | N/A                                                                                                     |
+| #5 Required training or approval              | No required training, except in cases where user has never used a sewing machine before                 |
+| #6 Inspection requirements before use         | Ensure the power cord is not damaged, needle and bobbin are not damaged, and presser foot is installed. |
+| #7 Safe operating procedures or precautions   | See instructions detailed below                                                                         |
+| #8 Chemicals/ spill procedures/waste disposal | Dispose of all thread bits and fabric scraps in the trash after use.                                    |
+
+---
 
 ## General Information
 
-**Machine Manager:** Kellie Dunn, kelliead@uw.edu
+**Machine Manager:** Hannah Twigg-Smith
 
 **Machine Location:** Machine Agency Shop, Sieg 118
 
 **Who can use the machine:** All lab members
 
-**How to get access:** Talk to Kellie if you’ve never used a sewing machine
+**How to get access:** Talk to Hannah if you’ve never used a sewing machine
 before and need an introduction. If you already know how to sew then go ahead.
 It’s a very basic machine.
 
