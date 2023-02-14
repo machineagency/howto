@@ -7,7 +7,7 @@ V3. For questions about this machine, contact the machine manager.
 
 - Author: Hannah Twigg-Smith
 - PI: Nadya Peek
-- Shop Safety Coordinator:
+- Shop Safety Coordinator: Nadya Peek
 
 |                                               |                                                                              |
 | --------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -45,20 +45,29 @@ preventing the machine from hurting itself but does not give you the level of
 control of other machines such as the Axidraw. Reverse engineering the Cameo
 control protocol would be a cool Machine Agency project!
 
+## Silhouette Studio
+
+Silhouette Studio can be downloaded from
+[the Silhouette website](https://www.silhouetteamerica.com/software). The
+license key can be found in the Machine Agency drive logistics folder in the
+"Machine Agency Software" sheet. The Silhouette Go mobile app can also be used
+to send jobs to the machine, which doesn't require a license key.
+
 ## Materials
 
 - Vinyl
 - Paper/cardstock
 
-We maintain a stock of cardstock and vinyl in the shop. If you wish to cut other
-materials such as fabric or magnet sheets, talk to the machine manager so they
-can investigate the impacts of those materials on the machine.
+We maintain a stock of cardstock and vinyl in the shop on the shelf that has the
+machine. If you wish to cut other materials such as fabric or magnet sheets,
+talk to the machine manager so they can investigate the impacts of those
+materials on the machine.
 
 ## Step-by-step Instructions
 
 ### Obtaining Design Files
 
-Silhouette studio can import a number of file formats. SVG is generally the best
+Silhouette Studio can import a number of file formats. SVG is generally the best
 format for vinyl cutters and plotters. I recommend creating the files yourself
 in vector graphics programs such as Adobe Illustrator or Inkscape. Because the
 paths in the file determine the path of the machine, it is useful to understand
