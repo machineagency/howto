@@ -1,13 +1,13 @@
 # Formlabs Form 3B Printer Standard Operating Procedure
 
-Last updated on 12 May 2022
+Last updated on 21 Feb 2023
 
 This is the Standard Operating Procedure for the Machine Agency Formlabs Form 3B
 printer. For questions about this machine, contact the machine manager.
 
 - Author: Danli Luo
 - PI: Nadya Peek
-- Shop Safety Coordinator: Kellie Dunn
+- Shop Safety Coordinator: Nadya Peek
 
 |                                               |                                                                                                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -83,7 +83,7 @@ A thorough introduction to the Formlabs 3 is
 [available online](https://support.formlabs.com/s/article/Quick-Start-Guide-Form3?language=en_US)
 and there are
 [tons of detailed procedures for operating the machine](https://support.formlabs.com/s/topic/0TO1Y000000IvzXWAS/overview-form-3?language=en_US).
-It is a good resource for beginners.
+It is a good resource for first-time users.
 
 ### Before using the machine
 
@@ -108,6 +108,44 @@ It is a good resource for beginners.
    printer. The machine needs to be primed. This step can go before #5 and it
    takes about two minutes. Go to the home screen on the printer and click
    ‘Prime’. Follow the instructions on the screen.
+
+### Post-process your print
+
+#### Washing
+
+Wear gloves and goggles during the entire time of this step except when you need to touch the printer. Never touch the outside of the printer (lid, screen, resin cartridge) with gloved hands.
+
+Have some paper towels or wet tissues by your hands. They are very handy when you try to place your print temporarily on a work surface.
+
+Washing residual resin off and curing the print in the UV box is a big step and could get really messy. Since Machine Agency is not equipped with fume hood, we do not have the automated Form Wash set-up and ready to use. Instead, you'll have to wash your print manually with a squirt bottle in a dedicated container.
+
+![](images/IPA.jpeg) 
+
+The container underneath the squirt bottle is a bath of 99% IPA, in which you can rinse and wash your print. However, it is not an airtight container and IPA evaporates easily. Pour just enough IPA for your print and be sure to close the lid after you use the bath. 
+
+A scraper, a pair of tweezers, and a pair of scissors are next to the washing containers. These tools help you remove the print from the bed, remove the support, etc.
+
+If you need a refill of IPA, it is stored in the yellow fire cabinet next door (note that the location of the fire cabinet has changed in the past, it might change again but it will always be in Sieg 112/118).
+
+***Do's and Don'ts***
+
+1. Use only 99% IPA. If you need to use other kinds of solvent to wash your print, talk to the machine manager first.
+
+2. Never leave fresh prints (before subjected to post-curing) on any work surface. If you stain any surface with uncured resin, clean it immediately with IPA on paper towels. Uncleaned resin will eventually cure and irreversibly stay there forever.
+
+3. The solvent in the bath contains traces of uncured resin as well. If you spill any of the solvent in the bath, wipe it with a paper towel immediately.
+
+4. Whenever you need to touch the printer on the outside, remove the glove.
+
+#### Post-curing
+
+1. Once you thoroughly wash your print, pat the surface dry or let the IPA evaporate in air.
+
+2. With *bare* hand, lift the door of Form Cure. With *gloved* hand, put your print(s) in. With *bare* hand, press and turn the knob to choose the desired temperature and time for post-curing. The rule of thumb is that you should not touch your print before it is subjected to post-curing, and you should not touch the machine with gloved hands.
+
+3. Take your print out and examine it carefully. If it is not completely cured, run another cycle. Change temperature and time accordingly.
+
+
 
 ## When you have finished using the machine
 
