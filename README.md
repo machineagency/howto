@@ -8,6 +8,7 @@ Machines:
 - [Brother LS-2125i Sewing Machine](brother_LS-2125i/)
 - [Ender3 Pro 3D Printer](ender_3/)
 - [Formlabs Form 3B 3D Printer](form_3B/)
+- [Othermill](othermill/)
 - [Prusa i3-mk3 3D Printer](prusa/)
 - [Roland MDX-540 Mill](roland_mdx_540/)
 - [Ryobi Drill Press](ryobi_drill_press/)
