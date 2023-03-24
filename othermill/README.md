@@ -132,7 +132,6 @@ detached.
 
 ![](images/install-material.png)
 
-
 7. Back in the Bantam software, add the material offset z size based on the sacrificial 
 material's height. You can measure this if you didn't install the sacrificial
 material yourself; otherwise, 1.7mm is a good default if the sacrificial layer
