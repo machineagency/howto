@@ -84,6 +84,10 @@ There are multiple ways to generate cut files for the laser (e.g. a vector
 graphics editor like Illustrator or Inkscape, a CAD software like Rhino...). The
 following instructions us Illustrator as an example.
 
+Note: When the laser is turned on before entering JobControl, the machine
+is often not found. To avoid this problem, prepare your cut and enter JobControl 
+before turning on & preparing the machine.
+
 ## Before Using the Machine
 
 Before starting, alert another person in the lab that you will be operating the
