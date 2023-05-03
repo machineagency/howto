@@ -6,6 +6,7 @@ Machines:
 
 - [Axidraw Plotter](axidraw/) (covers v3 and SE/A3)
 - [Brother LS-2125i Sewing Machine](brother_LS-2125i/)
+- [Clank XY](clank/)
 - [Ender3 Pro 3D Printer](ender_3/)
 - [Formlabs Form 3B 3D Printer](form_3B/)
 - [Othermill](othermill/)
