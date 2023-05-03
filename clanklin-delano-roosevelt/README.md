@@ -57,19 +57,23 @@ Todo.
 8. To zero the X axis, loosen the collet until the bit sits on top of the workpiece. If you need to, move the Z axis up or down so enough of the end mill shaft is engaged with the collet.
 9. Once satisfied, tighten the collet and set the Z axis position to zero using the G-code `G92 Z0`.
 10. Raise the Z-axis by 5mm or so i.e. `G0 Z5`.
-11. In the Duet interface, upload a G-code file user `File Management > System`, then run it by right clicking the file and pressing Run. **NOTE:** please see the note about setting spindle speeds below—you will most likely need to manually edit any generated G-Code files to address this.
+11. In the Duet interface, upload a G-code file user `File Management > System`, then run it by right clicking the file and pressing Run. **NOTE:** please see the note about setting spindle speeds below—you will most likely need to manually edit any generated G-Code files to address this. 
 
 ### Before use
 
+Before running the file, make sure your workpiece is in the correct location relative to where the machine will move. Feel free to re-zero the X and Y axes  by moving the end mill to the desired zero location and running `G92 X Y`.
+
 ### During use
+
+The spindle is quite loud; note that ear protection is required as mentioned earlier.
 
 ### After use
 
 ## Best Practices
 
- WARNING: the current design of the spindle and motor is not ideal. Because we're using a brushless DC motor wired directly to the controller, the spindle cannot increase its RPM by more than 4000RPM or so per second. There is currently no automatic ramping functionality for this. 
+ WARNING: the current design of the spindle and motor is not ideal. Because we're using a brushless DC motor wired directly to the controller, the spindle cannot increase its RPM by more than 5000RPM or so per second. There is currently no automatic ramping functionality for this. 
  
- **This, it is your responsibility to never increase the RPM by more than 4000RPM at once.** This means you need to manually set RPM and then dwell incrementally, including in any G-code files you send to it. As an example, to set the spindle to 12000RPM:
+ **This, it is your responsibility to never increase the RPM by more than 5000RPM at once.** This means you need to manually set RPM and then dwell incrementally, including in any G-code files you send to it. As an example, to set the spindle to 12000RPM:
  
 ```
 M03 S5000
