@@ -84,6 +84,8 @@ Vacuum up any chips and dispose of or put back fixures.
 
 ## Best Practices
 
+_Note: Jasper is updating the motor connection and will update this section once it's been overhauled._
+
  WARNING: the current design of the spindle and motor is not ideal. Because we're using a brushless DC motor wired directly to the controller, the spindle cannot increase its RPM by more than 5000RPM or so per second. There is currently no automatic ramping functionality for this. 
  
  **This, it is your responsibility to never increase the RPM by more than 5000RPM at once.** This means you need to manually set RPM and then dwell incrementally, including in any G-code files you send to it. As an example, to set the spindle to 12000RPM:
