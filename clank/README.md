@@ -39,13 +39,24 @@ and are documented in the machine training spreadsheet.
 
 ## Rules
 
-Todo.
+**Do not mill deep into the bed.** Clank does not have a spoilboard and the the bed provides stiffness for the rest of the machine. If you need to mill deep for some reason, drill in a separate board to the bed and mill on top of that instead.
 
 ## Materials
 
-Todo.
+The materials that Clanklin can mill are limited by the relatively low power of its DC motor spindle.
+
+You should be able to mill the following materials:
+
+- FR1
+- Delrin
+- Machining Wax
+- Wood (composite, plywood, soft and hard wood)
+
+Consult with Jasper for other materials.
 
 ## Step-by-step Instructions
+
+### Before use
 
 1. Plug in the power supply to an outlet. Note that there is no on/off switch, just whether the power supply is plugged in or not.
 2. Plug in the ethernet cable to your computer. If this is the first time your computer is connecting to the machine, [follow these instructions](https://jubilee3d.com/index.php?title=Connecting_to_Jubilee).
@@ -59,15 +70,17 @@ Todo.
 10. Raise the Z-axis by 5mm or so i.e. `G0 Z5`.
 11. In the Duet interface, upload a G-code file user `File Management > System`, then run it by right clicking the file and pressing Run. **NOTE:** please see the note about setting spindle speeds below—you will most likely need to manually edit any generated G-Code files to address this. 
 
-### Before use
-
 Before running the file, make sure your workpiece is in the correct location relative to where the machine will move. Feel free to re-zero the X and Y axes  by moving the end mill to the desired zero location and running `G92 X Y`.
 
 ### During use
 
 The spindle is quite loud; note that ear protection is required as mentioned earlier.
 
+Keep a window open or the air filter (WEN brand dust filter, not the UW-provided air filter) running during milling and for a resonable time afterwards.
+
 ### After use
+
+Vacuum up any chips and dispose of or put back fixures.
 
 ## Best Practices
 
@@ -88,4 +101,9 @@ If you don't do this, the current from the power supply will drop too quickly an
 
 ## Tips and Tricks
 
+Another way to zero the Z axis is to lower it to e.g. 5mm above the bed and insert the New York Subway Metrocard (should be labeled and next to the machine) underneath the bit that has already been installed in the collet. Wiggle the card back and forth as you lower the bit closer to the bed. Once the bit catches on the card, set the Z position to be 0.29mm or similar (`G92 Z0.20`).
+
 ## Additional Information and Resources
+
+- [Jake's Clank Documentation](https://clank.tools/)
+- See Duet3d resources (scattered about the internet) for info on diagnosing the controller.
