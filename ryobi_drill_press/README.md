@@ -1,6 +1,6 @@
 ### General Information
 
-**Machine Manager:** Shenna Shim, shenns@uw
+**Machine Manager:** Michelle Chang, changml@uw
 
 **Machine Location:** Machine Agency Shop
 
