@@ -10,16 +10,16 @@ manager.
 - PI: Nadya Peek
 - Shop Safety Coordinator: Nadya Peek
 
-|                                               |                                                                                   |
-| --------------------------------------------- | --------------------------------------------------------------------------------- |
-| #1 Process (if applicable)                    | See instructions detailed below.                                                  |
-| #2 Equipment                                  | SK840 Standard Gauge Knitting Machine, YC6 Automatic Yarn changer, SRP60N Ribber. |
-| #3 Personal Protective Equipment PPE)         | Tie back long hair                                                                |
-| #4 Environmental/Ventilation controls         | N/A                                                                               |
-| #5 Required training or approval              | Must be trained by machine manager.                                               |
-| #6 Inspection requirements before use         | Inspect for bent needles.                                                         |
-| #7 Safe operating procedures or precautions   | Do NOT use excessive force on the carriage.                                       |
-| #8 Chemicals/ spill procedures/waste disposal | Dispose of any yarn scraps in the trash.                                          |
+|                                               |                                                                                                          |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| #1 Process (if applicable)                    | See instructions detailed below.                                                                         |
+| #2 Equipment                                  | SK840 Standard Gauge Knitting Machine, YC6 Automatic Yarn changer, SRP60N Ribber.                        |
+| #3 Personal Protective Equipment PPE)         | Tie back long hair                                                                                       |
+| #4 Environmental/Ventilation controls         | N/A                                                                                                      |
+| #5 Required training or approval              | Must be trained by machine manager.                                                                      |
+| #6 Inspection requirements before use         | Inspect for excess fuzz on the bed and inside the carriage. Check the needles to make sure none are bent |
+| #7 Safe operating procedures or precautions   | Do NOT use excessive force on the carriage.                                                              |
+| #8 Chemicals/ spill procedures/waste disposal | Dispose of any yarn scraps in the trash.                                                                 |
 
 ## General Information
 
