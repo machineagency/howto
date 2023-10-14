@@ -116,9 +116,13 @@ in the swatch - which is very helpful as you will NOT remember (I promise).
 8. Hang a few claw weights (three is probably enough) across the bottom of the
    swatch, ensuring they are low enough to not hit the sinker plate.
 9. Knit five rows.
-10. Use the single transfer tool to create pointelle holes corresponding to the
-    tension you are testing. To do this
-11. Knit five more rows.
+10. Use the single transfer tool to create eyelets corresponding to the tension
+    you are testing. To create an eyelet, transfer a stitch to the adjacent
+    needle. Working from right to left, repeat this on every other needle to
+    create the same number of eyelets as the number on the stitch dial. Then,
+    skip a few stitches and add eyelets corresponding to the number of clicks in
+    between numbers on the stitch dial.
+11. Knit five or six more rows, ending with the carriage on the left.
 12. Thread the contrast color and knit two rows.
 13. Switch back to the main yarn.
 14. Set the row counter to 0. (RC000)
