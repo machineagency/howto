@@ -66,7 +66,7 @@ They can add additional materials to this list if needed.
 
 - Paper
 - Plywood (< 3/8")
-- Delrin
+- Delrin  (<= 1/8")
 - Cardboard
 - Acrylic
 
