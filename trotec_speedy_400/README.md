@@ -1,6 +1,6 @@
 # Trotec Speedy 400 Standard Operating Procedure
 
-Last updated on 24 March 2023
+Last updated on 7 Nov 2025
 
 This is the Standard Operating Procedure for the Machine Agency Laser Cutter
 (Trotec Speedy 400). For questions about this machine, contact the machine
