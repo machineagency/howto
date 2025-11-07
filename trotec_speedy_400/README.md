@@ -142,7 +142,9 @@ operate the machine.
 ![](images/printprefs.png)
 
 1.  You’ll see the following pop-up. Select the circled button if you’d like to
-    change material settings, or select an existing profile.
+    change material settings, or select an existing profile. **Note** that as of an Nov 2025, the
+    selected material in this pop-up should match the material you are going to choose in JobControl.
+    (I'm guessing this is a bug that will be fixed in the future, as this didn't used to be the case)
 
 ![](images/materialsettings.png)
 
