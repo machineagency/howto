@@ -1,6 +1,6 @@
 # Trotec Speedy 400 Standard Operating Procedure
 
-Last updated on 7 Nov 2025
+Last updated on 29 April 2026
 
 This is the Standard Operating Procedure for the Machine Agency Laser Cutter
 (Trotec Speedy 400). For questions about this machine, contact the machine
@@ -49,6 +49,7 @@ and are documented in the machine training spreadsheet.
 3. Do not lean on the laser, put things on top of it, or use it as a countertop.
 4. Keep Purex Extractor on max while operating the machine. Do not turn the
    Purex extractor on & off repeatedly.
+5. Add your laser use to the Machine Agency Machine Use calendar. Contact the machine manager if you don't have access.
 
 ## Important Information and Safety
 
