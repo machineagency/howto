@@ -181,3 +181,8 @@ operate the machine.
 - Power down the machine:
   - Turn the key to the off position
   - Power down the extraction system using the same button used to power on.
+
+## Maintenance Resources
+These resources are intended for the machine keeper; the machine keeper is responsible for maintenance.
+
+- https://www.youtube.com/watch?v=MENEsmjgrks&t=33s
